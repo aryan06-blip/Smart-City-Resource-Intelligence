@@ -54,15 +54,17 @@ EcoNexus is a **Data Analytics + Full Stack Development project** built to monit
 
 ### 📌 Dashboard Overview
 
-![Dashboard](dashboard1.jpeg)
+![Dashboard](Images/dashboard1.jpeg)
 
 ### ⚡ Electricity Analytics
 
-![Electricity](electricity.jpeg)
+![Electricity](Images/electricity.jpeg)
 
 ### 📈 Historical Resource Analysis
 
-![Analytics](analytics.jpeg)
+![Analytics](Images/analytics.jpeg)
+
+
 
 ---
 
